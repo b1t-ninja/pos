@@ -1,0 +1,40 @@
+[
+  {"picture":"https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":3.0,
+    "size":"Small",
+    "ingredients":[{"name":"apple","quantity":3},{"name":"pear","quantity":5}],
+    "name":"Apple Pear"
+  },
+  {"picture":"https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":5.0,
+    "size":"Medium",
+    "ingredients":[{"name":"apple","quantity":3},{"name":"pear","quantity":8}],
+    "name":"Apple Pear"
+  },
+  {"picture":"https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":8.0,
+    "size":"Large",
+    "ingredients":[{"name":"apple","quantity":5},{"name":"pear","quantity":10}],
+    "name":"Apple Pear"
+  },
+  {"picture":"https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":3.0,
+    "size":"Small",
+    "ingredients":[{"name":"cherry","quantity":10},{"name":"banana","quantity":1}],
+    "name":"Cherry Banana"
+  },
+  {"picture":"https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":5.0,
+    "size":"Medium",
+    "ingredients":[{"name":"cherry","quantity":10},{"name":"banana","quantity":3}],
+    "name":"Cherry Banana"
+  },
+  {
+    "picture":"https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "price":8.0,
+    "size":"Large",
+    "ingredients":[{"name":"cherry","quantity":20},{"name":"banana","quantity":5}],
+    "name":"Cherry Banana"
+  }
+]
+ 
