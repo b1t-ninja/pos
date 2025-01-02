@@ -4,7 +4,7 @@ It mainly aims to help with high volume order processing by producing a queue wi
 It also features a Notion based CMS, well to be percise it uses Notion as a CMS via the Notion API and Notion Integrations.
 
 We have a Notion Database:
-<img width="1067" alt="Screenshot 2024-12-30 at 12 02 28" src="https://github.com/user-attachments/assets/3ead3379-7db9-44fe-ae45-9bd489b1613c" />
+<img width="1042" alt="Screenshot 2025-01-02 at 11 37 25" src="https://github.com/user-attachments/assets/a80884e4-cce1-41a7-9ce9-87e3c1cf9f18" />
 Which allows the user a convenient way of managing their products, while also optimizing storange cost and architectural complexity, as all data is stored and managed by Notion.
 This comes with a price, namely a Notion subscription fee if you were planning to store a whole bunch of products. As the Notion free plan has its limitations. 
 As a student tho, we have access to theroretical infinite cloud storage via Notions student plan. So why not make use of it. 
@@ -25,11 +25,6 @@ The backend repo might be added later, if I find the time to clean it up.
 - Process orders faster 🏎️
 
 ## Some Images
-![Untitled Dec 30 2024 (1)](https://github.com/user-attachments/assets/91bba486-bf62-46d7-a1e7-754731a84526)
-![Untitled Dec 30 2024 (2)](https://github.com/user-attachments/assets/d1902968-a714-4d4a-a91f-1c48e62090d2)
-![Unnamed Dec 30 2024](https://github.com/user-attachments/assets/e565920c-9b93-4466-b7a4-7396b63ac673)
-
-And my personal highlight, this super satisfiying onClick animation.
-<br>
-
-https://github.com/user-attachments/assets/91bcf213-cd21-4954-b247-8b8c7c2e072f
+<img width="996" alt="Screenshot 2025-01-02 at 11 39 56" src="https://github.com/user-attachments/assets/570eddbe-565d-40e4-8f1e-cd70c85c568f" />
+<img width="996" alt="Screenshot 2025-01-02 at 11 40 07" src="https://github.com/user-attachments/assets/b670a583-bf18-475f-b1df-77ccbc3ea737" />
+<img width="995" alt="Screenshot 2025-01-02 at 11 40 16" src="https://github.com/user-attachments/assets/1c11fd09-04a9-4a8d-8d03-915ffd04548e" />
